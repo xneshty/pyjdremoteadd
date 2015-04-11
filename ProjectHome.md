@@ -1,0 +1,1 @@
+pyjdremoteadd watch for a specified directory in dropbox via inotify and if discovers a new file, its opened and parsed to a JDownloader instantiation via JDRemote plugin
